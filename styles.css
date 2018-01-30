@@ -1,0 +1,57 @@
+body {
+	font-family: "Lato", sans-serif
+	 }
+
+mySlides {
+	display: none
+}
+
+h3:after
+{
+	width:75px;
+	height:2px;
+	background-color:#FFA200;
+	display:block;
+	content:" ";
+	margin:0 auto;
+	margin-top:20px;
+}
+
+.color
+{
+	background-color: white;
+}
+.center
+{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%, -50%);
+}
+.w3-third i
+{
+	font-size:40px;
+	color:#FFA200;
+}
+
+.w3-black
+{
+	background-image:url(img/menu1.jpg);
+	background-position:center;
+}
+
+.myStyles
+{
+	display: none;
+}
+.menuColor
+{
+	
+	color:#FFA200;
+}
+
+.w3-blue
+{
+	background-image:url(img/contactB.jpg);
+	background-position:center;
+}
